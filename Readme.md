@@ -105,6 +105,11 @@ BranchLink_Network_Enterprise/
 ├── BranchLink Network Enterprise.pkt       # Cisco Packet Tracer file
 ├── README.md                    # Project documentation
 ```
+---
+
+### 🖼️ **Network Topology**
+
+![BranchLink Network Topology](/Assest/BranchLink%20Network%20Enterprise.png)
 
 ---
 
