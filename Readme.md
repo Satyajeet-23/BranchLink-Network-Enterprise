@@ -25,10 +25,10 @@
 
 | VLAN ID | Department | IP Subnet       | Default Gateway | Color Code     |
 | ------- | ---------- | --------------- | --------------- | -------------- |
-| 10      | HR         | 192.168.10.0/24 | 192.168.10.1    | Light Blue     |
-| 20      | IT         | 192.168.20.0/24 | 192.168.20.1    | Yellow         |
-| 30      | Sales      | 192.168.30.0/24 | 192.168.30.1    | Magenta (Pink) |
-| 40      | Marketing  | 192.168.40.0/24 | 192.168.40.1    | Dark Blue      |
+| 10      | HR         | 192.168.10.0/24 | 192.168.10.1    | Light Cyan     |
+| 20      | IT         | 192.168.20.0/24 | 192.168.20.1    | Bright Green   |
+| 30      | Sales      | 192.168.30.0/24 | 192.168.30.1    | Light Purple   |
+| 40      | Marketing  | 192.168.40.0/24 | 192.168.40.1    | Bright Yellow  |
 
 > VLANs are implemented on access and trunk ports to segment traffic and enforce security.
 
